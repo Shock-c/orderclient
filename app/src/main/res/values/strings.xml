@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Orderclient</string>
+    <string name="localhost">192.168.199.116</string>
+</resources>
